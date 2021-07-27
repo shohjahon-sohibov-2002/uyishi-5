@@ -1,0 +1,26 @@
+.box-heading {
+  text-align: center;
+}
+
+
+div {
+  display: block;
+  width: 150px;
+  height: 150px;
+}
+
+.div-1 {
+  background-color: rgb(200, 150, 100);
+}
+
+.div-2 {
+  background-color: rgba(2, 150, 100, 0.5);
+}
+
+.div-3 {
+  background-color: #cd55fa;
+}
+
+.div-4 {
+  background-color: crimson;
+}
